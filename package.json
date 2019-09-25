@@ -1,6 +1,6 @@
 {
   "name": "pump",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "repository": "git://github.com/mafintosh/pump.git",
   "license": "MIT",
   "description": "pipe streams together and close all of them if one of them closes",
@@ -15,7 +15,7 @@
   ],
   "author": "Mathias Buus Madsen <mathiasbuus@gmail.com>",
   "dependencies": {
-    "end-of-stream": "^1.1.0",
+    "end-of-stream": "1.4.1",
     "once": "^1.3.1"
   },
   "scripts": {
